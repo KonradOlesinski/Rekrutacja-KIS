@@ -9,11 +9,16 @@ Dla wygody sprawdzającego zadanie, repozytorium zostało przygotowane w sposób
 
 ### Instalacja i uruchomienie
 1. Sklonuj repozytorium i przejdź do folderu z projektem.
-2. Zainstaluj zależności:
+2. **Skonfiguruj zmienne środowiskowe:** 
+   Skopiuj zawartość pliku `.env.example` i utwórz z niego nowy plik o nazwie `.env` w głównym katalogu projektu. 
+   *W terminalu (Linux/macOS):* `cp ".env .example" .env`
+   *W terminalu (Windows CMD):* `copy ".env .example" .env`
+   *(Uwaga: Plik ten zawiera już przygotowane dane testowe oraz tokeny sesji, aby umożliwić bezproblemowe uruchomienie testów od razu po instalacji).*
+3. Zainstaluj zależności:
    `npm install`
-3. Zainstaluj przeglądarki wymagane przez Playwright:
+4. Zainstaluj przeglądarki wymagane przez Playwright:
    `npx playwright install`
-4. Uruchom testy (tryb headless):
+5. Uruchom testy (tryb headless):
    `npx playwright test`
 
 ### Przydatne komendy
@@ -24,6 +29,11 @@ Ponieważ domyślna konfiguracja uruchamia testy w 3 silnikach przeglądarek, w 
 
 * **Uruchomienie tylko w Chrome (widoczne okno przeglądarki):**
   `npx playwright test --project=chromium --headed`
+
+### Uwaga dotycząca testu regresyjnego (BUG-01)
+W kodzie automatycznym (`notifications.spec.ts`) zastosowano metodę `test.fail()` dla scenariusza weryfikującego BUG-01. Jest to celowa praktyka zarządzania znanymi defektami. 
+
+Test jest zaprogramowany tak, aby oczekiwać błędu aplikacji. Jeśli w przyszłości zespół deweloperski naprawi ten błąd w kodzie źródłowym, test Playwrighta **nieoczekiwanie przejdzie (Unexpected Pass)**, co spowoduje zrzucenie błędu w pipeline CI/CD. Będzie to dla zespołu QA natychmiastowy sygnał, że defekt został trwale usunięty i należy usunąć znacznik `test.fail()`, zamieniając go w standardowy scenariusz regresyjny.
 
 ## Podsumowanie wyników testów (Executive Summary)
 Przeprowadzono testy eksploracyjne i manualne mechanizmu powiadomień zgodnie z wymaganiami. Wykryto łącznie **12 błędów**, z czego większość bezpośrednio potwierdza zgłoszenie Piotra: powiadomienia o komentarzach (zarówno od Klienta, jak i od innych członków zespołu) trafiają w większości przypadków **wyłącznie do Właściciela**, całkowicie pomijając pozostałych członków zespołu powiązanych z listą/projektem. 
