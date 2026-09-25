@@ -1,0 +1,203 @@
+{
+  "cookies": [
+    {
+      "name": "mercureAuthorization",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXJjdXJlIjp7ImV4cCI6MTc5MDQxMzEwOSwic3Vic2NyaWJlIjpbIi91c2VyLzNKZGlOcE83ZmhvMmw2RThEOTIydVN2SWN4cSJdfX0.4UhINRDjoT7L3XuPFKL7TJXxncdc4VnCYbe9z378LNk",
+      "domain": ".kislist.com",
+      "path": "/.well-known/mercure",
+      "expires": 1790413109.756815,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "devid",
+      "value": "5s1Cv0fFUBU6oIkH0YbAt1LfLvqVCA10",
+      "domain": "kislist.com",
+      "path": "/",
+      "expires": 1821862709,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AMP_MKTG_a08d37423b",
+      "value": "JTdCJTdE",
+      "domain": ".kislist.com",
+      "path": "/",
+      "expires": 1821862680,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_id.2.d3e7",
+      "value": "09835da759af44be.1790326680.",
+      "domain": "kislist.com",
+      "path": "/",
+      "expires": 1824281880,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_ses.2.d3e7",
+      "value": "1",
+      "domain": "kislist.com",
+      "path": "/",
+      "expires": 1790328509,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "token_hp",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3OTAzMjY2OTksImV4cCI6MTc5MDMzMDI5OSwiZW1haWwiOiJrb25yYWQub2xlMjRAZ21haWwuY29tIiwibGxhIjoiMjAyNi0wOS0yNSAwOTo0MzoyNyIsImtleSI6IjNKZGlOcE83ZmhvMmw2RThEOTIydVN2SWN4cSIsInBsYW4iOiJ0cmlhbCJ9",
+      "domain": "kislist.com",
+      "path": "/",
+      "expires": 1790330299.640154,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "token_sig",
+      "value": "kXYq_pq-hTU11ABA5_xCHse3SjONe7-4m3Ui0QcVwdWFJwqXmp0S6XQIVl8BYaFiEXSEpi5D2bZJcE_G13uldA6uqcpozivB8HHo-YM_u29IoKVefcAxJpvW9ACEs2VLIV9OKK3g83oRplc42knX6wso1S2EqEYFd5JSadmG-zvFlf2NaZ87NvwhCUP2aEFvsigrQrP24C9DjJLCflXwpSWYRZ5OvLb-s2KDPwRweuYc0wBMFcUrTOtW5UkkDo-i0KGv5-wEALaO0K0VZfggACwoKZgQ3JrWeVo8LEqa4pfeUmT78e_-JajJH3LmkpGpDnwIvcq8Q-MaUBKjdDbx-g",
+      "domain": "kislist.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "token_rf",
+      "value": "d688b0c2acbfee2e71bfa5432f04ee5d34ead99aed42b3ad1e190f041ee7b0b97952775432a72ca3d4203a201418c0ce6f95172b55fd10b9a451b9bd48bff3ab",
+      "domain": "kislist.com",
+      "path": "/",
+      "expires": 1792918699.640528,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "REMEMBERME",
+      "value": "UserBundle.Entity.User%3Aa29ucmFkLm9sZTI0QGdtYWlsLmNvbQ~~%3A1821862709%3AJiMOYUG02mTZhARAXyS-ZQ798ipkh0oLD_iAC28KlG0~Wr2vcLEuuQc62Da7U3aCF9uv4GVKh-Jo-qAnujzUONI~",
+      "domain": "kislist.com",
+      "path": "/",
+      "expires": 1821862709.105694,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "9c35fbf31bbd1f08b62b6ebe28ff5222",
+      "domain": "kislist.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CloudFront-Policy",
+      "value": "eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6XC9cL2Nkbi5raXNsaXN0LmNvbVwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDM2MjcwOX19fV19",
+      "domain": ".kislist.com",
+      "path": "/",
+      "expires": 1790362709.187426,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CloudFront-Signature",
+      "value": "PF2pAHpcCBiKnlY89bPbNUuu58IDwmGUc4poBvq~2T~aXzOBycLqP32jITxbYk6bPv-md2bRwocGBHv3gtxM1FYXo-zAQAOwFfWP4KyaQLQP96mmGHyX3AyVvoE7clWeBgTO~D7pScQIyCBV8of1sajwf0jz~zDo-EqctF0AWO6N6MSGUSduBebbx6eY8KoXG4wKG6QAH2B0cyRwmbhLVLmc02Fsg-cx43zPpoVkSTfD7uqEQGm0jxQvkOQb8L4GBdPOnXsxgZi3jlF2tFEKtiJJf5oLgoNRI4cqesl4ShOK~FftSMU0iUN1syqgXCgHBrWjOOO~fxW93vmrO7SCBA__",
+      "domain": ".kislist.com",
+      "path": "/",
+      "expires": 1790362709.187754,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CloudFront-Key-Pair-Id",
+      "value": "K1LTSY41UL18IU",
+      "domain": ".kislist.com",
+      "path": "/",
+      "expires": 1790362709.187924,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_a08d37423b",
+      "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJhZGUzMjI3Zi0xMGNkLTQyNWItOGM1OS0yNmM4NzdlMzY5ZTMlMjIlMkMlMjJ1c2VySWQlMjIlM0ElMjIzSmRpTnBPN2ZobzJsNkU4RDkyMnVTdkljeHElMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzkwMzI2NjgwMzc5JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc5MDMyNjcwOTg3NCUyQyUyMmxhc3RFdmVudElkJTIyJTNBMTIlMkMlMjJwYWdlQ291bnRlciUyMiUzQTMlN0Q=",
+      "domain": ".kislist.com",
+      "path": "/",
+      "expires": 1821862709,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://kislist.com",
+      "localStorage": [
+        {
+          "name": "amplitude.engagement.eus.a08d37.device_id:ade3227f-10cd-425b-8c59-26c877e369e3",
+          "value": "{\"ampIdToken\":\"Wj7331MKXMBaPvfB0X-p6rl1qIiquRR6\",\"nudgeInteractions\":{}}"
+        },
+        {
+          "name": "stored-filter",
+          "value": "{\"filteredStatus\":[\"in_progress\"],\"showOnlyMine\":false}"
+        },
+        {
+          "name": "stored-dashboard-filter",
+          "value": "{\"listsShowOnlyMine\":false}"
+        },
+        {
+          "name": "b51f2035_a30435c6_cta_dropdown",
+          "value": "<div class=\"cta-container\">\n    <div class=\"cta cta-addon\">\n        <button class=\"cta-close\"\n                title=\"Zamknij\"\n        >\n            <svg width=\"12\" height=\"12\" aria-hidden=\"true\"><use xlink:href=\"/build/images/spritemap.svg#icon-ico-dialog-close\"></use></svg>\n        </button>\n        <div class=\"cta-header\">\n            <div class=\"cta-title\">\n                                                    Dodaj KISjum AI\n                            </div>\n            <div class=\"cta-subtitle\">\n                                                    Dodaj <span style=\"color: #b46016\">zespół asystentów</span>, którzy wesprą Cię w codzienej pracy\n                            </div>\n            <div class=\"cta-info\">\n                <div class=\"cta-info-media\">\n                    <img src=\"/build/images/upgrade-dialog-1.5cf5777e.png\" alt=\"\" width=\"29\" height=\"29\"/>\n                    <img src=\"/build/images/upgrade-dialog-2.ed1db01a.png\" alt=\"\" width=\"29\" height=\"29\"/>\n                    <img src=\"/build/images/upgrade-dialog-3.a66e39af.png\" alt=\"\" width=\"29\" height=\"29\"/>\n                </div>\n                <div class=\"cta-info-body\">\n                    Wykorzystywane przez ponad 4 200+ kreatywnych zespołów i projektantów\n                </div>\n            </div>\n        </div>\n        <div class=\"cta-body\">\n                                        <div class=\"cta-card\">\n                    <div class=\"cta-card-header\">\n                        KISjusz - porozmawia z klientem\n                    </div>\n                    <div class=\"cta-card-body\">\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Inteligenty asystent do przeprowadzania ankiet, który odpowiada na pytania klienta</div>\n                        </div>\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Asystent pilnuje aby zebrać potrzebne Ci informacje</div>\n                        </div>\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Gotowy szablon ankiety z klientem</div>\n                        </div>\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Konstruktor własnego szablonu ankiety</div>\n                        </div>\n                    </div>\n                    <div class=\"cta-card-header\" style=\"margin-top: 10px;\">\n                        KISaya - upiększy wizualizacje\n                    </div>\n                    <div class=\"cta-card-body\">\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Upiększy surową wizualizację aby Twoja wizja była bardziej przekonująca</div>\n                        </div>\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Do wizualizacji doda detali, poprawi oświetlenie</div>\n                        </div>\n                    </div>\n                </div>\n                    </div>\n        <div class=\"cta-footer\">\n                                        <a href=\"/profile/plans/buy-addon?addons%5B0%5D=ai_budget\"\n                   title=\"Ulepsz teraz\"\n                   class=\"kis-btn kis-btn-purple\"\n                   style=\"min-width: 170px;\"\n                >\n                    Ulepsz teraz\n                </a>\n                        <a href=\"/szczegoly-funkcji\"\n               title=\"Porównaj plany\"\n               class=\"kis-btn text-uppercase\"\n               style=\"color: #45455e;\"\n            >\n                Porównaj plany\n            </a>\n        </div>\n    </div>\n</div>\n\n<style>\n  .cta ::before, ::after {\n    box-sizing: border-box;\n  }\n\n  .cta-container {\n    max-width: 100%;\n  }\n\n  .cta {\n    max-width: 840px;\n    margin: 0 auto;\n    position: relative;\n    background: #fff;\n    border-radius: 8px;\n    font-family: \"Roboto-Bold\", sans-serif;\n    white-space: normal;\n\n    @media (max-width: 1359px) {\n      max-width: 360px;\n      overflow: auto;\n      height: 100%;\n      max-height: 95vh;\n    }\n  }\n\n  .cta.cta-addon {\n    max-width: 540px;\n  }\n\n  .cta-close {\n    position: absolute;\n    top: 8px;\n    right: 8px;\n    width: 36px;\n    height: 36px;\n    cursor: pointer;\n    background: transparent;\n    border: none;\n    border-radius: 50%;\n\n    @media (max-width: 1359px) {\n      top: 0;\n      right: 0;\n    }\n  }\n\n  .cta-header {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    padding: 2rem 42px 0 42px;\n\n    @media (max-width: 1359px) {\n      padding: 1.25rem 1.75rem 0 1.75rem;\n    }\n  }\n\n  .cta-title {\n    color: #45455e;\n    text-align: center;\n    font-size: 22px;\n    font-weight: 700;\n  }\n\n  .cta-subtitle {\n    font-size: 16px;\n    line-height: 24px;\n    font-weight: 400;\n    color: #45455e;\n    text-align: center;\n    margin-top: 0.75rem;\n  }\n\n  .cta-subtitle > .highlight {\n    color: #b46016;\n  }\n\n  .cta-info {\n    display: flex;\n    align-items: center;\n    margin-top: 1.25rem;\n    background: rgba(45, 156, 219, 0.1);\n    border-radius: 40px;\n    width: fit-content;\n    max-width: 100%;\n\n    @media (max-width: 1359px) {\n      padding: 9px;\n    }\n  }\n\n  .cta-info-body {\n    padding: 0.5rem 1rem;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    position: relative;\n    color: #005483;\n    font-size: 11px;\n    font-weight: 400;\n    line-height: normal;\n\n    @media (max-width: 1359px) {\n      padding: 0 0 0 0.5rem;\n    }\n  }\n\n  .cta-info-media {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    z-index: 1;\n  }\n\n  .cta-info-media > img {\n    margin-left: -12px;\n    border-radius: 50%;\n    outline: 3px solid #fff;\n    flex-shrink: 0;\n    width: 29px;\n    height: 29px;\n    position: relative;\n    object-fit: cover;\n    aspect-ratio: 1;\n    background: #fff;\n  }\n\n  .cta-info-media > img:first-child {\n    margin-left: 0;\n  }\n\n  .cta-body {\n    display: flex;\n    flex-wrap: wrap;\n    gap: 1.5rem;\n    margin-top: 1.5rem;\n    padding: 0 42px;\n\n    @media (max-width: 1359px) {\n      padding: 0 0.75rem;\n    }\n  }\n\n  .cta-card {\n    position: relative;\n    flex: 1 1 300px;\n    background: #FFFFFF;\n    background: linear-gradient(195deg, rgba(255, 255, 255, 1) 0%, rgba(243, 243, 255, 1) 100%);\n    border-radius: 8px;\n    border: 1px solid transparent;\n    padding: 16px 24px 24px 24px;\n  }\n\n  .cta-card::after {\n    content: '';\n    position: absolute;\n    top: -1px;\n    bottom: -1px;\n    left: -1px;\n    right: -1px;\n    background: linear-gradient(\n            180deg,\n            rgba(237, 237, 237, 1) 0%,\n            rgba(255, 255, 255, 1) 100%\n    );\n    z-index: -1;\n    border-radius: 8px;\n  }\n\n  .cta-card.blue {\n    background: linear-gradient(195deg, rgba(255, 255, 255, 1) 0%, rgba(243, 249, 255, 1) 100%);\n    border-image: linear-gradient(\n            180deg,\n            rgba(226, 239, 251, 1) 0%,\n            rgba(255, 255, 255, 1) 100%\n    );\n  }\n\n  .cta-card-header {\n    font-size: 14px;\n    line-height: 22px;\n    font-weight: 600;\n    color: #7f549e;\n  }\n\n  .cta-card-body {\n    margin-top: 0.75rem;\n    display: grid;\n    gap: 0.5rem;\n    align-content: start;\n  }\n\n  .cta-card-item {\n    display: grid;\n    grid-template-columns: 24px 1fr;\n    gap: 6px;\n    font-size: 14px;\n    line-height: 22px;\n    font-weight: 400;\n    color: #45455e;\n  }\n\n  .cta-card-item > svg {\n    height: 22px;\n  }\n\n  .cta-footer {\n    display: flex;\n    flex-wrap: wrap;\n    align-items: center;\n    justify-content: center;\n    gap: 1rem;\n    padding: 1.5rem 42px;\n\n    @media (max-width: 1359px) {\n      padding: 1.5rem 0.75rem 1rem 0.75rem;\n    }\n  }\n\n  .cta-bottom {\n    border-top: 1px solid #f1f1f1;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    padding: 0.75rem;\n  }\n</style>\n"
+        },
+        {
+          "name": "tab-monitor-max-tabs",
+          "value": "8"
+        },
+        {
+          "name": "onboarding-lists",
+          "value": "{\"showGuide\":true}"
+        },
+        {
+          "name": "amplitude.engagement.ENGAGEMENT_a08d37423b_DEFAULT_USER_PROVIDER",
+          "value": "{\"first_seen\":\"1790326680.764\"}"
+        },
+        {
+          "name": "AMP_unsent_a08d37423b",
+          "value": "[]"
+        },
+        {
+          "name": "b51f2035_7b1ec2_cta_dropdown",
+          "value": "<div class=\"cta-container\">\n    <div class=\"cta \">\n        <button class=\"cta-close\"\n                title=\"Zamknij\"\n        >\n            <svg width=\"12\" height=\"12\" aria-hidden=\"true\"><use xlink:href=\"/build/images/spritemap.svg#icon-ico-dialog-close\"></use></svg>\n        </button>\n        <div class=\"cta-header\">\n            <div class=\"cta-title\">\n                                    Rozszerz możliwości KIS List o funkcje EXPERT\n                                            </div>\n            <div class=\"cta-subtitle\">\n                                    Odblokuj <span style=\"color: #b46016\">dodatkowe funkcje</span> dzięki <span style=\"white-space: nowrap;\">KIS List EXPERT</span> lub wersji EXPERT z Zespołem!\n                                            </div>\n            <div class=\"cta-info\">\n                <div class=\"cta-info-media\">\n                    <img src=\"/build/images/upgrade-dialog-1.5cf5777e.png\" alt=\"\" width=\"29\" height=\"29\"/>\n                    <img src=\"/build/images/upgrade-dialog-2.ed1db01a.png\" alt=\"\" width=\"29\" height=\"29\"/>\n                    <img src=\"/build/images/upgrade-dialog-3.a66e39af.png\" alt=\"\" width=\"29\" height=\"29\"/>\n                </div>\n                <div class=\"cta-info-body\">\n                    Wykorzystywane przez ponad 4 200+ kreatywnych zespołów i projektantów\n                </div>\n            </div>\n        </div>\n        <div class=\"cta-body\">\n                            <div class=\"cta-card\">\n                    <div class=\"cta-card-header\">\n                        KIS List\n                    </div>\n                    <div class=\"cta-card-body\">\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Zarządzanie projektem</div>\n                        </div>\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Dodawanie wizualizacji</div>\n                        </div>\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Pinowanie komentarzy na zdjęciach</div>\n                        </div>\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Załączniki do produktów</div>\n                        </div>\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Centrum plików projektu</div>\n                        </div>\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Pełna komunikacja z klientem</div>\n                        </div>\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Widok tabeli i rabaty</div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"cta-card blue\">\n                    <div class=\"cta-card-header\">\n                        KISer\n                    </div>\n                    <div class=\"cta-card-body\">\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Menu kontekstowe uzupełniania danych</div>\n                        </div>\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Dodawanie do ulubionych</div>\n                        </div>\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>Wycinanie fragmentu strony</div>\n                        </div>\n                        <div class=\"cta-card-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"9\" fill=\"none\"\n                                 viewBox=\"0 0 12 9\"\n                            >\n                                <path fill=\"#16D24B\"\n                                      d=\"M3.744 9a.745.745 0 0 1-.528-.216l-3-3.024a.753.753 0 0 1 0-1.056.753.753 0 0 1 1.056 0l2.472 2.472 6.96-6.96a.753.753 0 0 1 1.056 0 .753.753 0 0 1 0 1.056L4.272 8.76a.77.77 0 0 1-.528.24Z\"\n                                />\n                            </svg>\n                            <div>AI automatycznie wybierające kategorię produktu</div>\n                        </div>\n                    </div>\n                </div>\n                                </div>\n        <div class=\"cta-footer\">\n                            <a href=\"/profile/plans\"\n                   title=\"Ulepsz teraz\"\n                   class=\"kis-btn kis-btn-purple\"\n                   style=\"min-width: 170px;\"\n                >\n                    Ulepsz teraz\n                </a>\n                                    <a href=\"/szczegoly-funkcji\"\n               title=\"Porównaj plany\"\n               class=\"kis-btn text-uppercase\"\n               style=\"color: #45455e;\"\n            >\n                Porównaj plany\n            </a>\n        </div>\n    </div>\n</div>\n\n<style>\n  .cta ::before, ::after {\n    box-sizing: border-box;\n  }\n\n  .cta-container {\n    max-width: 100%;\n  }\n\n  .cta {\n    max-width: 840px;\n    margin: 0 auto;\n    position: relative;\n    background: #fff;\n    border-radius: 8px;\n    font-family: \"Roboto-Bold\", sans-serif;\n    white-space: normal;\n\n    @media (max-width: 1359px) {\n      max-width: 360px;\n      overflow: auto;\n      height: 100%;\n      max-height: 95vh;\n    }\n  }\n\n  .cta.cta-addon {\n    max-width: 540px;\n  }\n\n  .cta-close {\n    position: absolute;\n    top: 8px;\n    right: 8px;\n    width: 36px;\n    height: 36px;\n    cursor: pointer;\n    background: transparent;\n    border: none;\n    border-radius: 50%;\n\n    @media (max-width: 1359px) {\n      top: 0;\n      right: 0;\n    }\n  }\n\n  .cta-header {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    padding: 2rem 42px 0 42px;\n\n    @media (max-width: 1359px) {\n      padding: 1.25rem 1.75rem 0 1.75rem;\n    }\n  }\n\n  .cta-title {\n    color: #45455e;\n    text-align: center;\n    font-size: 22px;\n    font-weight: 700;\n  }\n\n  .cta-subtitle {\n    font-size: 16px;\n    line-height: 24px;\n    font-weight: 400;\n    color: #45455e;\n    text-align: center;\n    margin-top: 0.75rem;\n  }\n\n  .cta-subtitle > .highlight {\n    color: #b46016;\n  }\n\n  .cta-info {\n    display: flex;\n    align-items: center;\n    margin-top: 1.25rem;\n    background: rgba(45, 156, 219, 0.1);\n    border-radius: 40px;\n    width: fit-content;\n    max-width: 100%;\n\n    @media (max-width: 1359px) {\n      padding: 9px;\n    }\n  }\n\n  .cta-info-body {\n    padding: 0.5rem 1rem;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    position: relative;\n    color: #005483;\n    font-size: 11px;\n    font-weight: 400;\n    line-height: normal;\n\n    @media (max-width: 1359px) {\n      padding: 0 0 0 0.5rem;\n    }\n  }\n\n  .cta-info-media {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    z-index: 1;\n  }\n\n  .cta-info-media > img {\n    margin-left: -12px;\n    border-radius: 50%;\n    outline: 3px solid #fff;\n    flex-shrink: 0;\n    width: 29px;\n    height: 29px;\n    position: relative;\n    object-fit: cover;\n    aspect-ratio: 1;\n    background: #fff;\n  }\n\n  .cta-info-media > img:first-child {\n    margin-left: 0;\n  }\n\n  .cta-body {\n    display: flex;\n    flex-wrap: wrap;\n    gap: 1.5rem;\n    margin-top: 1.5rem;\n    padding: 0 42px;\n\n    @media (max-width: 1359px) {\n      padding: 0 0.75rem;\n    }\n  }\n\n  .cta-card {\n    position: relative;\n    flex: 1 1 300px;\n    background: #FFFFFF;\n    background: linear-gradient(195deg, rgba(255, 255, 255, 1) 0%, rgba(243, 243, 255, 1) 100%);\n    border-radius: 8px;\n    border: 1px solid transparent;\n    padding: 16px 24px 24px 24px;\n  }\n\n  .cta-card::after {\n    content: '';\n    position: absolute;\n    top: -1px;\n    bottom: -1px;\n    left: -1px;\n    right: -1px;\n    background: linear-gradient(\n            180deg,\n            rgba(237, 237, 237, 1) 0%,\n            rgba(255, 255, 255, 1) 100%\n    );\n    z-index: -1;\n    border-radius: 8px;\n  }\n\n  .cta-card.blue {\n    background: linear-gradient(195deg, rgba(255, 255, 255, 1) 0%, rgba(243, 249, 255, 1) 100%);\n    border-image: linear-gradient(\n            180deg,\n            rgba(226, 239, 251, 1) 0%,\n            rgba(255, 255, 255, 1) 100%\n    );\n  }\n\n  .cta-card-header {\n    font-size: 14px;\n    line-height: 22px;\n    font-weight: 600;\n    color: #7f549e;\n  }\n\n  .cta-card-body {\n    margin-top: 0.75rem;\n    display: grid;\n    gap: 0.5rem;\n    align-content: start;\n  }\n\n  .cta-card-item {\n    display: grid;\n    grid-template-columns: 24px 1fr;\n    gap: 6px;\n    font-size: 14px;\n    line-height: 22px;\n    font-weight: 400;\n    color: #45455e;\n  }\n\n  .cta-card-item > svg {\n    height: 22px;\n  }\n\n  .cta-footer {\n    display: flex;\n    flex-wrap: wrap;\n    align-items: center;\n    justify-content: center;\n    gap: 1rem;\n    padding: 1.5rem 42px;\n\n    @media (max-width: 1359px) {\n      padding: 1.5rem 0.75rem 1rem 0.75rem;\n    }\n  }\n\n  .cta-bottom {\n    border-top: 1px solid #f1f1f1;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    padding: 0.75rem;\n  }\n</style>\n"
+        },
+        {
+          "name": "stored-schedule-filter",
+          "value": "{\"scheduleAssignedUsers\":[],\"scheduleShowClosedActions\":false,\"scheduleShowClosedTasks\":false,\"scheduleAllTasksVisible\":false,\"scheduleProjectKeys\":[],\"scheduleShowProjectsDone\":false}"
+        },
+        {
+          "name": "amplitude.engagement.eus.a08d37.user_id:3JdiNpO7fho2l6E8D922uSvIcxq",
+          "value": "{\"nudgeInteractions\":{}}"
+        },
+        {
+          "name": "ssupp_6729e9c4836e58b799aad9f288ce41488454fdd7",
+          "value": "{\"sessionId\":\"CHtXdCeIz_SM\",\"vid\":\"vi7FXxfanSmssG\",\"visits\":\"1\"}"
+        },
+        {
+          "name": "kislist_tab_registry",
+          "value": "{}"
+        }
+      ]
+    }
+  ]
+}

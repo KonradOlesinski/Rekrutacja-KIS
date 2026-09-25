@@ -1,0 +1,8 @@
+BASE_URL=https://kislist.com/logowanie
+SHARED_PASSWORD=TestKisList2026!
+OWNER_EMAIL=konrad.ole24@gmail.com
+TESTER_EMAIL=mailpliki+tester@gmail.com
+TESTER2_EMAIL=mailpliki+tester2@gmail.com
+SHARED_LIST_NAME=KOSZTORYS
+CLIENT_LIVE_LIST_URL=https://kislist.com/project-dashboard/y8xWrTqRnuzY49iGetxsSI778KRQ9cwf7fA8/lists
+CLIENT_PROPOSAL_URL=https://kislist.com/proposal-list/lzb6Dq2cVj9ox9tFLtgpHnnIJ2hNJEWH

@@ -1,0 +1,24 @@
+{
+  "name": "rekrutacja-kis",
+  "version": "1.0.0",
+  "description": "Zadanie rekrutacyjne KIS",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonradOlesinski/Rekrutacja-KIS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KonradOlesinski/Rekrutacja-KIS/issues"
+  },
+  "homepage": "https://github.com/KonradOlesinski/Rekrutacja-KIS#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.2",
+    "dotenv": "^18.0.3"
+  }
+}
